@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_aboutTukCu"
+            android:icon="@drawable/ic_church"
+            android:title="About TUK CU"></item>
+        <item
+            android:id="@+id/nav_leaders"
+            android:icon="@drawable/ic_leaders"
+            android:title="Leaders"></item>
+        <item
+            android:id="@+id/nav_subCom"
+            android:icon="@drawable/ic_subcom"
+            android:title="Subcoms"></item>
+        <item
+            android:id="@+id/nav_BSCellGroups"
+            android:icon="@drawable/ic_cell"
+            android:title="BS Cell Groups"></item>
+        <item
+            android:id="@+id/nav_newsEvents"
+            android:icon="@drawable/ic_events"
+            android:title="News/Events"></item>
+
+        <item
+            android:id="@+id/nav_speakersAndTopics"
+            android:icon="@drawable/ic_events"
+            android:title="Speakers and Topics"></item>
+
+
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/ic_document"
+            android:title="TUK CU Constitution"></item>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_name"
+            android:title="Profile"></item>
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contacts"
+            android:title="Contacts"></item>
+    </group>
+
+</menu>

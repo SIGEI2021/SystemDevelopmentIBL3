@@ -1,0 +1,3089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_design"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Missions and Evangelism Team"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:textSize="21sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="a. In-reach subcom"
+            android:textColor="#000000"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Adams"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Lucy" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Emmanuel Simiyu" />
+
+            </TableRow>
+
+             <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Thu 430-530 Jblock" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0727690496" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="b. Out-reach subcom"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Purity Chemutai"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vice Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Joseph"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Paul" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Eric" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 430-530 Jblock" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0711294198" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="c. Creative Ministry"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Benjamin Mweri"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vice Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Wilson Muthya"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Ruth Moraa" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wanjohi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 430-530 Jblock" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0795052013" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="d. High School Ministry"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Peter Mwangi"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vice Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Grace Mutinda"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Daisy" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Tue 5-6 J3/4" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0793870376" />
+
+            </TableRow>
+        </TableLayout>
+
+
+
+
+
+
+        <!--
+        WORSHIP
+        SUB-COMMITEES
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Worship Team"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:textColor="#ffffff"
+            android:textSize="21sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="a. Praise and worship sub-commitee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_below="@+id/aboutMonday"
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Eunice Njiraini"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Joan Muthoni" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Richard Mutemi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Mon 4-6 Sanctuary" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0721347096" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="b. Choir Sub-commitee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Coordinator"
+                android:textColor="#000000"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="@drawable/borders"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Peter Mutia"
+                android:textColor="#000000"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="@drawable/borders"
+                />
+        </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Priscilla Jepkemboi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Evelyn Askuku" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Tue 4-6 sanctuary" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0728906128" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="c. Instruments sub-committee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="James Irungu"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Justice Liyoyi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Eunice Mwende" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Technician"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Godfrey Keya" />
+
+            </TableRow>
+
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 4-6 sanctuary" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0740213989" />
+
+            </TableRow>
+        </TableLayout>
+
+
+        <!--
+        MEDIA
+        CREW
+        SUBCOM
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Media Crew Team"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:textColor="#ffffff"
+            android:textSize="21sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="a. Publicity Sub-committee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_below="@+id/aboutMonday"
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Brian Ochieng'"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Shadrach Mutuma" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Mon 4:30-5:30 J25/26" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0711535481" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="b. Editorial Sub-Committee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Victor Mue"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Simon Simiyu" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 4:30-5:30 J25/26" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0798425542" />
+
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="c. Library Sub-Committee"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="18dp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jeremiah Mwaniki"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Evelyn Kawira" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Yvonne Balan" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 4:30-5:30 J25/26" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0708203980" />
+
+            </TableRow>
+        </TableLayout>
+
+
+        <!--
+        INTERCESSORY
+        SUBCOM
+        -->
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Intercessory Sub-Committee"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Bill Titus" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Grace Nyokabi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Tue 4-6 J23 n Fri 12-1 Sanctuary" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0719171288" />
+
+            </TableRow>
+        </TableLayout>
+
+
+        <!--
+        MENS'
+        HOSTEL
+        LEADERSHIP
+        -->
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Mens Hostel Subcom"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Daniel Waweru" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Anthony Macharia" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Dennis Rop" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Discipleship Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Stephen Omodoi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Bible Study Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="David Muigai" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Worship Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Baraka Mutinda" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Prayer Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Francis Omweri" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 730-930 dstvroom" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0720892310" />
+
+            </TableRow>
+        </TableLayout>
+
+
+            <!--
+            LADIES
+            HOSTEL
+            LEADERSHIP
+            -->
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Ladies Hostel Subcom"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Angela Silantoi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Caroline Warukira" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Esther Njoki" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Discipleship Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Faith Charles" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Bible Study Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Salome Mueni" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Worship Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Mildred Kerongo" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Prayer Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Teresiah Wambui" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 730-930 Uperhill hostel" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0710602274" />
+
+            </TableRow>
+        </TableLayout>
+
+
+        <!--
+        BIBLE
+        STUDY
+        SUB-COMMITEES
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Bible Study Sub-committee"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ruphine Eve"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Charity Auma" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Boaz Gesaka" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Mon n Wed 4-5 darkroom" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0798026547 " />
+
+            </TableRow>
+        </TableLayout>
+
+        <!--
+        DISCIPLESHIP
+        SUB
+        COMMITEE
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Discipleship Sub-Committee"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Eric Kanyingi"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Frida Wangari" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Special Member 1"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Emmanuel Paul" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Special Member 2"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="Leah Wairimu" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="Thu 4-6 J4/5/6" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0704544922" />
+
+            </TableRow>
+        </TableLayout>
+
+        <!--
+        USHERING
+        SUB
+        COMMITEE
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Ushering Subcommittee"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Coordinator"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Alex Muriithi"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Yvonne David" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Darius Kemboi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 4-6 darkroom/C6" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0706777158" />
+
+            </TableRow>
+        </TableLayout>
+
+        <!--
+        HOSPITALITY
+        SUB
+        COMMITEE
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10. Hospitality Sub-Committee "
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice-coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Esther Nyokabi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Beryl Oduor" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Treasurer"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Peter Muhito" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Wed 3:59 behind dispensary" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0720482900" />
+
+            </TableRow>
+        </TableLayout>
+
+        <!--
+        ASSOCIATES
+        AND
+        PATNERSHIP
+        SUBCOMMITEE
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11. Associates and patnership"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Vice Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Stanley Kabuka" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Secretary"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Louise Dwanah" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Meetings"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Tue 5-7 J4" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0791407371" />
+
+            </TableRow>
+        </TableLayout>
+
+        <!--
+        SUNDAY
+        SERVICE
+        SUBCOM
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12. Sunday Service Commitee"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:textSize="21sp"
+            />
+        <TableLayout
+            android:layout_gravity="center_horizontal"
+            android:paddingHorizontal="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vice Secretary"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Daisy Koome"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:background="@drawable/borders"
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Ladies' Hostel Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Mary Kiarie" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Men's Hostel Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Zabron Njambi" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Media Crew Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Evans Abade" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Worship Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Michael Wekesa" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Intercessory Vice Director"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Bill Titus" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Discipleship Coordinator"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="Eric Kanyingi" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:text="phone"
+
+                    />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    android:background="@drawable/borders"
+                    android:gravity="center"
+                    android:text="0799448090" />
+
+            </TableRow>
+        </TableLayout>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Be Blessed. © TUKCU 2021"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:layout_centerHorizontal="true"></TextView>
+
+
+    </LinearLayout>
+
+</ScrollView>

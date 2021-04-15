@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "721920516723",
+    "firebase_url": "https://tukcu-fc640-default-rtdb.firebaseio.com",
+    "project_id": "tukcu-fc640",
+    "storage_bucket": "tukcu-fc640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721920516723:android:5710e56ba04a79a2384006",
+        "android_client_info": {
+          "package_name": "example.tukcu.tukcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721920516723-ok72nqob79o5lhonnis8r0fmbhj67as8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodYUrE0AHG_FAMADQuxdJEjmkVOpmHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721920516723-ok72nqob79o5lhonnis8r0fmbhj67as8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721920516723:android:36ca854b22654e38384006",
+        "android_client_info": {
+          "package_name": "orgg.tukcu.tukcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721920516723-ok72nqob79o5lhonnis8r0fmbhj67as8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodYUrE0AHG_FAMADQuxdJEjmkVOpmHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721920516723-ok72nqob79o5lhonnis8r0fmbhj67as8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

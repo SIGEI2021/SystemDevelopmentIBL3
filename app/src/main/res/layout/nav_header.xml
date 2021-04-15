@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#0E753E"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:layout_height="176dp">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/logo1"
+        android:id="@+id/nav_header_image"
+        android:layout_gravity="center"
+        ></ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The TUK CU"
+        android:paddingTop="5dp"
+        android:maxLines="1"
+        android:id="@+id/nav_header_user_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:gravity="center"
+        ></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="technicaluniversitycu@gmail.com"
+        android:gravity="center"
+        android:id="@+id/nav_header_user_email"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        >
+    </TextView>
+
+</LinearLayout>

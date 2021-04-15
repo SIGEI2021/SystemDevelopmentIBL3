@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_design"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/leadersFragmentTukculogo"
+            android:src="@drawable/logo1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+
+
+        <TextView
+            android:id="@+id/associateRegHeading"
+            android:text="These are the members of the TUKCU  excecutive commitee."
+            android:layout_below="@+id/leadersFragmentTukculogo"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:id="@+id/chairperson"
+            android:layout_below="@+id/associateRegHeading"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/lnandwa"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/chairpersonName"
+            android:layout_below="@id/chairperson"
+            android:textColor="#000000"
+            android:text="Leonard"
+            android:layout_centerHorizontal="true"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/chairpersonTitle"
+            android:layout_below="@id/chairpersonName"
+            android:textColor="#ffffff"
+            android:text="Chairman"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:layout_marginTop="0dp"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/firstvicechair"
+            android:layout_below="@+id/chairpersonTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/smbaka"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/firstvicechairName"
+            android:layout_below="@id/firstvicechair"
+            android:textColor="#000000"
+            android:text="Sally"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/firstvicechairTitle"
+            android:layout_below="@id/firstvicechairName"
+            android:textColor="#ffffff"
+            android:text="1st Vice Chairperson"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/secondvicechair"
+            android:layout_below="@+id/firstvicechairTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/jmaina"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/secondvicechairName"
+            android:layout_below="@id/secondvicechair"
+            android:textColor="#000000"
+            android:text="Joseph"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/secondvicechairTitle"
+            android:layout_below="@id/secondvicechairName"
+            android:textColor="#ffffff"
+            android:text="2nd Vice Chairperson"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/treasurer"
+            android:layout_below="@+id/secondvicechairTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/eaura"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/treasurerName"
+            android:layout_below="@id/treasurer"
+            android:textColor="#000000"
+            android:text="Elisha"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/treasureTitle"
+            android:layout_below="@id/treasurerName"
+            android:textColor="#ffffff"
+            android:text="Treasurer"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/secretary"
+            android:layout_below="@+id/treasureTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/marodi"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/secretaryName"
+            android:layout_below="@id/secretary"
+            android:textColor="#000000"
+            android:text="Mark"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/secretaryTitle"
+            android:layout_below="@id/secretaryName"
+            android:textColor="#ffffff"
+            android:text="Secretary"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/vicesecretary"
+            android:layout_below="@+id/secretaryTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/dkoome"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/vicesecretaryName"
+            android:layout_below="@id/vicesecretary"
+            android:textColor="#000000"
+            android:text="Daisy"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/vicesecretaryTitle"
+            android:layout_below="@id/vicesecretaryName"
+            android:textColor="#ffffff"
+            android:text="Vice Secretary"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/associatesAndPatnership"
+            android:layout_below="@+id/vicesecretaryTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ekibet"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/associatesAndPatnershipName"
+            android:layout_below="@id/associatesAndPatnership"
+            android:textColor="#000000"
+            android:text="Evans"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/associatesAndPatnershipTitle"
+            android:layout_below="@id/associatesAndPatnershipName"
+            android:textColor="#ffffff"
+            android:text="Associates and Partnership Director"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/mensHostel"
+            android:layout_below="@+id/associatesAndPatnershipTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/znjambi"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/mensHostelName"
+            android:layout_below="@id/mensHostel"
+            android:textColor="#000000"
+            android:text="Zabron"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/mensHostelTitle"
+            android:layout_below="@id/mensHostelName"
+            android:textColor="#ffffff"
+            android:text="Men's Hostel Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/ladiesHostel"
+            android:layout_below="@+id/mensHostelTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mkiarie"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/ladiesHostelName"
+            android:layout_below="@id/ladiesHostel"
+            android:textColor="#000000"
+            android:text="Mary"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/ladiesHostelTitle"
+            android:layout_below="@id/ladiesHostelName"
+            android:textColor="#ffffff"
+            android:text="Ladies Hostel Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/prayer"
+            android:layout_below="@+id/ladiesHostelTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/nmuriuki"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/prayersName"
+            android:layout_below="@id/prayer"
+            android:textColor="#000000"
+            android:text="Nelly"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/prayerTitle"
+            android:layout_below="@id/prayersName"
+            android:textColor="#ffffff"
+            android:text="Prayer Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/mediaTeam"
+            android:layout_below="@+id/prayerTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/eabade"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/mediaTeamName"
+            android:layout_below="@id/mediaTeam"
+            android:textColor="#000000"
+            android:text="Evans"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/mediaTeamTitle"
+            android:layout_below="@id/mediaTeamName"
+            android:textColor="#ffffff"
+            android:text="Media Crew Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/missions"
+            android:layout_below="@+id/mediaTeamTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/jnganga"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/missionsName"
+            android:layout_below="@id/missions"
+            android:textColor="#000000"
+            android:text="Jesse Ng'ang'a"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+
+            android:id="@+id/missionsTitle"
+            android:layout_below="@id/missionsName"
+            android:textColor="#ffffff"
+            android:text="Missions and Evangelism Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/worship"
+            android:layout_below="@+id/missionsTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mwekesa"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/worshipName"
+            android:layout_below="@id/worship"
+            android:textColor="#000000"
+            android:text="Michael"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/worshipTitle"
+            android:layout_below="@id/worshipName"
+            android:textColor="#ffffff"
+            android:text="Worship Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="25dp"
+            android:id="@+id/BS"
+            android:layout_below="@+id/worshipTitle"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mmito"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/BSName"
+            android:layout_below="@id/BS"
+            android:textColor="#000000"
+            android:text="Maximilian Mito"
+            android:layout_centerHorizontal="true"
+
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/BSTitle"
+            android:layout_below="@id/BSName"
+            android:textColor="#ffffff"
+            android:text="Bible Study and Discipleship Director"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Be Blessed. © TUKCU 2021"
+            android:textSize="15sp"
+            android:layout_below="@+id/BSTitle"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp"
+            android:layout_centerHorizontal="true"></TextView>
+    </RelativeLayout>
+
+</ScrollView>
